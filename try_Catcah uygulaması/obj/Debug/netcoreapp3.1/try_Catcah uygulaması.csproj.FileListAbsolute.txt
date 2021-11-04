@@ -1,0 +1,16 @@
+E:\yazılım projeleri\try_Catcah uygulaması\try_Catcah uygulaması\bin\Debug\netcoreapp3.1\try_Catcah uygulaması.exe
+E:\yazılım projeleri\try_Catcah uygulaması\try_Catcah uygulaması\bin\Debug\netcoreapp3.1\try_Catcah uygulaması.deps.json
+E:\yazılım projeleri\try_Catcah uygulaması\try_Catcah uygulaması\bin\Debug\netcoreapp3.1\try_Catcah uygulaması.runtimeconfig.json
+E:\yazılım projeleri\try_Catcah uygulaması\try_Catcah uygulaması\bin\Debug\netcoreapp3.1\try_Catcah uygulaması.runtimeconfig.dev.json
+E:\yazılım projeleri\try_Catcah uygulaması\try_Catcah uygulaması\bin\Debug\netcoreapp3.1\try_Catcah uygulaması.dll
+E:\yazılım projeleri\try_Catcah uygulaması\try_Catcah uygulaması\bin\Debug\netcoreapp3.1\try_Catcah uygulaması.pdb
+E:\yazılım projeleri\try_Catcah uygulaması\try_Catcah uygulaması\obj\Debug\netcoreapp3.1\try_Catcah uygulaması.csproj.AssemblyReference.cache
+E:\yazılım projeleri\try_Catcah uygulaması\try_Catcah uygulaması\obj\Debug\netcoreapp3.1\try_Catcah_uygulaması.Form1.resources
+E:\yazılım projeleri\try_Catcah uygulaması\try_Catcah uygulaması\obj\Debug\netcoreapp3.1\try_Catcah uygulaması.csproj.GenerateResource.cache
+E:\yazılım projeleri\try_Catcah uygulaması\try_Catcah uygulaması\obj\Debug\netcoreapp3.1\try_Catcah uygulaması.GeneratedMSBuildEditorConfig.editorconfig
+E:\yazılım projeleri\try_Catcah uygulaması\try_Catcah uygulaması\obj\Debug\netcoreapp3.1\try_Catcah uygulaması.AssemblyInfoInputs.cache
+E:\yazılım projeleri\try_Catcah uygulaması\try_Catcah uygulaması\obj\Debug\netcoreapp3.1\try_Catcah uygulaması.AssemblyInfo.cs
+E:\yazılım projeleri\try_Catcah uygulaması\try_Catcah uygulaması\obj\Debug\netcoreapp3.1\try_Catcah uygulaması.csproj.CoreCompileInputs.cache
+E:\yazılım projeleri\try_Catcah uygulaması\try_Catcah uygulaması\obj\Debug\netcoreapp3.1\try_Catcah uygulaması.dll
+E:\yazılım projeleri\try_Catcah uygulaması\try_Catcah uygulaması\obj\Debug\netcoreapp3.1\try_Catcah uygulaması.pdb
+E:\yazılım projeleri\try_Catcah uygulaması\try_Catcah uygulaması\obj\Debug\netcoreapp3.1\try_Catcah uygulaması.genruntimeconfig.cache
